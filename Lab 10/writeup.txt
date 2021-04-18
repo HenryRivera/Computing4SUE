@@ -1,0 +1,39 @@
+Group 1: NYPD
+
+a. What are the patterns in NYPD agency complaints between the 2020 and 2021 data?
+The top complaint types for 2020 were illegal fireworks and posting advertisement. During 2021 they were disorderly youth and posting advertisement. Disorderly youth was number 4 during March 2020. A lot of the top complaints during both years were from noise and disorderly conduct. Interesting to note is that during March 2021 NonCompliance with Phased Reopening was in the top 3.
+
+b. What are some geographical patterns you are seeing comparing both years?
+When analyzing the geographical output I noticed that both years showed similar patterns. I think it's interesting how most of the boroughs are deeply affected by the same complaint type. During March 2021, there is a noticeable pattern of Blocked Driveway complaints in Brooklyn.
+
+Group 2: DOT
+
+a. What are the patterns in DOT agency complaints between the 2020 and 2021 data?
+The most common complaint type during March 2020 was tunnel condition and public toilet. During March 2021 it was public toilet and municipal parking facility. During both years, some of the top complaints involved the highways.
+
+b. What are some geographical patterns you are seeing comparing both years?
+Compared to the NYPD geographical output, the DOT geographical output is much less dense. During March 2020, however, there is a noticeable dense area in the souther tip of Manhattan. A pretty cool observation, in my opinion, is that Central Park is excluded from complaints in all maps. In regards to complaint types, it is not particularly noticeable for March 2020 which complaint type is most common.
+
+Group 3: DEP
+
+a. What are the patterns in DEP agency complaints between the 2020 and 2021 data?
+The leading complaint type during March 2020 is plant and industrial waste. During March 2021, it was plant and SRDE. Water quality made the top 5 list in March 2020, but not in March 2021. I found this to be pretty interesting
+
+b. What are some geographical patterns you are seeing comparing both years?
+It is quite noticeable for both years that Manhattan sees a lot of DEP complaints. This pattern is not as visible in the other boroughs. Furthermore, it is not limited to just one complaint type. Instead, there is a wide range of complaint types for both years. 
+
+Group 4: DSNY
+
+a. What are the patterns in DSNY agency complaints between the 2020 and 2021 data?
+The top complaints during March 2020 were litter basket/request and snow. During March 2021 they were overflowing litter baskets and graffiti. Prior to beginning this assignment I did not check to see the duties of each department, but it's interesting that I've been able to gauge what each of these departments take care of from the complaint types.
+
+b. What are some geographical patterns you are seeing comparing both years?
+There are no noticeable patterns that come from the March 2020 output. A lot of the complaint types were from dirty conditions. This is spread throughout all the boroughs. Most of the complaints during March 2021 were in Brooklyn and Staten Island. The most noticeable complaint type is Missed Collection. It is very evident from the geographical output
+
+Group 5: DOHMH
+
+a. What are the patterns in DOHMH agency complaints between the 2020 and 2021 data?
+The most common complaint types for March 2020 were calorie labeling and cooling tower. During March 2021 they were unsanitary animal facility and unlicensed dog. This department seems to deal with a lot of random complaint types. Mainly, however, the complaint types appear to be animal related. Interesting to note is that in both years, radioactive material made the top 5 list. I think this is somewhat concerning.
+
+b. What are some geographical patterns you are seeing comparing both years?
+This geographical output is the most scarce. It is clear the DOHMH sees the least amount of complaints during March 2020 and March 2021. The complaint types are pretty random and no one complaint types appears to be prominent. During March 2020, Manhattan saw a lot of food related complaints.
