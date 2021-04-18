@@ -1,4 +1,6 @@
 lab10_venv/
+.DS_Store/
+.ipynb_checkpoints/
 311_March2020.csv
 311_March2021.csv
 requirements.txt
